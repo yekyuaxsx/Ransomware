@@ -1,6 +1,6 @@
 # Simple Ransomware Demo
 
-![Ransomware Demo](https://via.placeholder.com/150)
+![Ransomware Demo]
 
 ## Description
 
